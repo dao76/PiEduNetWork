@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "piEduNetwork",
+    "slug": "piEduNetwork",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
